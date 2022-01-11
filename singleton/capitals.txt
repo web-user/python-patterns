@@ -1,0 +1,12 @@
+Tokio
+33400000
+New York
+18000000
+São Paulo
+13900000
+Mexico City
+17400000
+Mumbai
+7500000
+Seoul
+17500000
